@@ -1,4 +1,4 @@
-#Mon Aug 11 21:39:47 EEST 2025
+#Mon Aug 11 22:30:55 EEST 2025
 base.0=F\:\\SolidSoftware\\testapp\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=F\:\\SolidSoftware\\testapp\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.2=F\:\\SolidSoftware\\testapp\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
