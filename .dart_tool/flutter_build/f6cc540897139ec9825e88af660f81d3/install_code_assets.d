@@ -1,0 +1,1 @@
+ F:\\SolidSoftware\\testapp\\.dart_tool\\flutter_build\\f6cc540897139ec9825e88af660f81d3\\native_assets.json: 
