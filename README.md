@@ -1,16 +1,8 @@
-# testapp
+# Random colors
 
 Test application for SolidSoftware
 
-## Getting Started
+## What's in there
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I made single screen with changing background on tap, and resetting to its original color by clicking the button.
+In this project, I tried to apply different approaches, and I often had to use StackOverflow and Google. But at least it proves my research skills))
