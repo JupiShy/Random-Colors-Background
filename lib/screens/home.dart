@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:testapp/constants/app_colors.dart';
 import 'package:testapp/constants/app_styles.dart';
-import 'package:testapp/services/color_picker.dart';
+import 'package:testapp/services/color_controller.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({required this.title, super.key});
@@ -13,13 +13,13 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  ColorPicker colorPicker = ColorPicker();
+  ColorController colorController = ColorController();
   Color backgroundColor = AppColors.defaultBackground;
 
   void _changeBackground() {
     setState(() {
-      colorPicker.setRandomColor();
-      backgroundColor = colorPicker.getColor;
+      colorController.setRandomColor();
+      backgroundColor = colorController.color;
     });
   }
 
